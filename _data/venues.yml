@@ -1,6 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ApJL":
+  url: https://iopscience.iop.org/journal/2041-8205
+
+"NatSR":
+  url: https://www.nature.com/srep/
+
+"A&A":
+  url: https://aanda.org
+
+"PASJ":
+  url: https://academic.oup.com/pasj

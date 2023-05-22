@@ -2,96 +2,97 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xiaohong Li (李晓红)
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Astrophysics
+      institution:  National Astronomical Observatories, Chinese Academy of Sciences
+      year: 2017.09 - 2020.07
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - supervised by Prof. Jun Zhang (张军) and assoc. Prof. Shuhong Yang (杨书红) 
+        - Ph.D. thesis - <a href="/assets/pdf/phd.pdf">Jets in the solar atmosphere</a>
+    - title: M.Sc., Astrophysics
+      institution:  National Astronomical Observatories, Chinese Academy of Sciences
+      year: 2015.09 - 2017.07
       description:
-        - Description 1.
-        - Description 2.
+    - title: Bachelor of Science, Geophysics
+      institution: University of Science and Technology of China  
+      year: 2011.09 - 2015.07
+      description:
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral fellow
+      institution: Centre for mathematical Plasma Astrophysics (CmPA) KU Leuven, Belgium
+      year: 2020.10 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research assistant
+      institution: National Astronomical Observatories, China
+      year: 2020.07 - 2020.10
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Excellent Doctoral Dissertation of Chinese Academy of Sciences 
+    - year: 2020
+      items:
+        - Outstanding Graduate of Beijing
+        - Outstanding Graduate of University of Chinese Academy of Sciences
+    - year: 2019
       items: 
-        - Max Planck Medal
+        - Merit Student Model in the academic year of 2018-2019
+    - year: 2018
+      items: 
+        - National Scholarship for postgraduates in the academic year of 2018
+    - year: 2016
+      items: 
+        - National Scholarship for postgraduates in the academic year of 2016
+        - Merit Student in the academic year of 2015-2016
+
+- title: International Conferences
+  type: time_table
+  contents:
+  - year: 2022
+    items: EGU General Assembly 2022, Vienna, Astria, <b><em>Oral</em></b>
+  - year: 2021
+    items: 16th European Solar Physics Meeting, Online, <b><em>Oral</em></b> 
+    items: National Astronomy Meeting 2021, Online, <b><em>Oral</em></b> 
+  - year: 2019
+    items: The 10<u>th</u> IRIS Workshop, Bangalore, India, <b><em>Invited Oral</em></b>
+  - year: 2018
+    items: The 9<u>th</u> IRIS Workshop, Gottingen, Germany, <b><em>Oral</em></b>
+  - year: 2016
+    items: The Fourth International Space Weather Conference, Beijing, China, <b><em>Oral</em></b>    
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Solar Jets
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Obersvations on solar jets and associate eruptions.
+        - Simulations on solar jets and magnetic flux emergence.
+    - title: Coronal Rain
       items:
-        - Description 1.
-        - Description 2.
+        - Simulations on coronal rain formation.
 
-- title: Other Interests
-  type: list
+- title: Programming
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Fortran
+      items:
+      - <a href="https://amrvac.org/">MPI-AMRVAC</a>
+    - title: Python
+      items:
+      - <a href="https://sunpy.org/">SunPy</a>
+      - <a href="https://yt-project.org/">yt</a>
+    - title: IDL
+      items:
+      - <a href="https://www.lmsal.com/solarsoft/">SolarSoft</a>
