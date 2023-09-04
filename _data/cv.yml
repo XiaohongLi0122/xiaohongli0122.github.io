@@ -27,9 +27,13 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Postdoctoral fellow
+      institution: Max Planck Institute for Solar System Research, Germany
+      year: 2023.09 - Present
+      description:
     - title: Postdoctoral fellow
       institution: Centre for mathematical Plasma Astrophysics (CmPA) KU Leuven, Belgium
-      year: 2020.10 - Present
+      year: 2020.10 - 2023.08
       description:
     - title: Research assistant
       institution: National Astronomical Observatories, China
@@ -60,6 +64,8 @@
 - title: International Conferences
   type: time_table
   contents:
+  - year: 2023
+    items: National Astronomy Meeting 2023, Cardiff, UK, <b><em>Oral</em></b>
   - year: 2022
     items: EGU General Assembly 2022, Vienna, Astria, <b><em>Oral</em></b>
   - year: 2021
