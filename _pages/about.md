@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://wis.kuleuven.be/CmPA'> Max Planck Institute for Solar System Research </a>
+subtitle: <a href='https://www.mps.mpg.de/en'> Max Planck Institute for Solar System Research </a>
 
 profile:
   align: right
