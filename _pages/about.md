@@ -1,3 +1,4 @@
+<meta charset="UTF-8">
 ---
 layout: about
 title: about
@@ -10,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room: BT2.E4.112, Justus-von-Liebig-Weg 3,</p>
-    <p>37077 G$\ddot{o}$ttingen</p>
+    <p>37077 Göttingen</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
